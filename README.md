@@ -89,4 +89,36 @@ Silhouette Score;
 - b. Justifique como essa análise pode ser útil para empresa para segmentação de seus clientes e personalização das campanhas de marketing;
 - c. Sugira ações possíveis com base nas ações realizadas.
 
+## 4. Projeto em Python
 
+<img align="center" src="images/clust_1.png" style="width: 40%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_2.png" style="width: 80%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_3.png" style="width: 60%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_4.png" style="width: 15%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_5.png" style="width: 60%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_6.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_7.png" style="width: 80%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_8.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_9.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_10.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_11.png" style="width: 70%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_12.png" style="width: 70%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_13.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_14.png" style="width: 70%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_15.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/clust_16.png" style="width: 80%; max-width: 300px; display: block; margin: 0 auto;"/>
