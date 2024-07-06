@@ -29,11 +29,27 @@ promoções e ofertas aos clientes com base no comportamento de compras.***
 
 Acesse os dados aqui: [link](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
-Os dados fornecidos possuem informações de transações de compras de uma loja de
-e-commerce em 38 países e territórios, com mais de 4.000 clientes únicos e mais de 540.000 transações.
+Os dados fornecidos possuem informações de **transações de compras de uma loja de
+e-commerce em 38 países e territórios, com mais de 4.000 clientes únicos e mais de 540.000 transações.**
 
-**Atenção:** as datas estão no formato MM/DD/YYYY HH:mm:ss; existem dados nulos que
-precisam ser tratados antes da realização da análise; por mais que os códigos de
-identificação sejam numéricos, o modelo não pode considerá-los como grandezas
-numéricas.
+Abaixo o dicionário e uma breve descrição dos dados:
 
+| Coluna       | Descrição                                | Tipo     |
+|--------------|------------------------------------------|----------|
+| InvoiceNo    | Identificação da transação               | Int      |
+| StockCode    | Código de estoque do produto             | String   |
+| Description  | Descrição do produto                     | String   |
+| Quantity     | Quantidade de produtos por transação     | Int      |
+| InvoiceDate  | Data da transação                        | Datetime |
+| UnitPrice    | Preço unitário do produto                | Float    |
+| CustomerID   | Identificação do cliente                 | Int      |
+| Country      | País de origem da transação              | String   |
+
+Dessa forma, desenvolva um modelo de clusterização que seja capaz de agrupar os clientes
+conforme o seu comportamento de compras levando em consideração a métrica RFM.
+Analise os clusters obtidos para identificar o perfil de cliente, como padrões e
+características em comum para determinar o seu comportamento de compra. Utilize
+gráficos e visualizações para auxiliar na análise.
+
+*É essencial informar os insights obtidos e as recomendações de ações futuras para que a
+empresa possa colocá-los em prática.*
